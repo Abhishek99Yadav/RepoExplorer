@@ -26,7 +26,7 @@ Installation
 
 1. Clone the repository:
    
-   git clone https://gitlab.com/mr.AbhishekYadav/RepoExplorer.git
+   git clone https://github.com/Abhishek99Yadav/RepoExplorer.git
    
 2. Open the project in Xcode:
    
@@ -97,4 +97,4 @@ Contact
 
 Abhishek Yadav - [p.abhishek.yadav@outlook.com](mailto:p.abhishek.yadav@outlook.com)
 
-Project Link: [https://gitlab.com/mr.AbhishekYadav/RepoExplorer.git](https://gitlab.com/mr.AbhishekYadav/RepoExplorer.git)
+Project Link: [https://github.com/Abhishek99Yadav/RepoExplorer.git](https://github.com/Abhishek99Yadav/RepoExplorer.git)
