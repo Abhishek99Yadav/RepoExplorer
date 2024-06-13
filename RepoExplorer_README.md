@@ -14,6 +14,13 @@ Features
 Screenshots
 
 ![Home Screen](SS/Home.PNG)
+
+===
+
+![Home Screen 1](SS/Home1.PNG)
+
+===
+
 ![Repository Details Screen](SS/RepositoryDetail.PNG)
 
 Requirements
