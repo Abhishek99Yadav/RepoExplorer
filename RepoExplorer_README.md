@@ -13,8 +13,8 @@ Features
 
 Screenshots
 
-![Home Screen](path/to/home_screen.png)
-![Repository Details Screen](path/to/details_screen.png)
+![Home Screen](SS/Home.PNG)
+![Repository Details Screen](SS/RepositoryDetail.PNG)
 
 Requirements
 
